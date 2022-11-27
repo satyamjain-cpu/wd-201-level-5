@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "satyam",
+    "password": "tulas@123",
+    "database": "todo_db_dev",
+    "host": "127.0.0.1",
+    "dialect": "satyam",
+    "logging": false
+  },
+  "test": {
+    "username": "satyam",
+    "password": "tulas@123",
+    "database": "todo_db_test",
+    "host": "127.0.0.1",
+    "dialect": "satyam",
+    "logging": false
+  },
+  "production": {
+    "username": "satyam",
+    "password": "tulas@123",
+    "database": "todo_db_prod",
+    "host": "127.0.0.1",
+    "dialect": "satyam"
+  }
+}
