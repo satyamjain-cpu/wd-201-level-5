@@ -8,7 +8,7 @@
   "scripts": {
     "test": "jest --detectOpenHandles"
   },
-  "name": "l5",
+  "name": "satyam",
   "version": "1.0.0",
   "main": "index.js",
   "author": "satyam jain <satyam.202104119@tulas.edu.in>",
